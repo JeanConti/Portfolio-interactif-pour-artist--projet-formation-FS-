@@ -13,13 +13,13 @@ Back-End (API sécurisée et base de données pour la gestion des œuvres, utili
 <hr>
 <br>
 <h2>🎨 1. Front-End — Partie Interface Utilisateur</h2>
-🎯 Objectif
+<h3>🎯 Objectif</h3>
 
 Offrir une interface visuelle immersive et responsive qui met en valeur le travail des artistes, tout en permettant une navigation intuitive pour les visiteurs.
 
 <h3>🧰 Technologies utilisées</h3>
 
-HTML5 / CSS3 / SASS → pour la structure et le style personnalisé.
+HTML5 / CSS / SASS → pour la structure et le style personnalisé.
 
 Bootstrap → pour la grille responsive et les composants dynamiques (navbar, carousel, cards, etc.).
 
@@ -27,7 +27,7 @@ JavaScript Vanilla ou framework JS (React ou Angular) → pour l’interactivit�
 
 Font Awesome / Google Fonts → pour les icônes et typographies.
 
-📐 Structure des pages principales :
+<h3>📐 Structure des pages principales</h3>
 
 Page d’accueil (Home)
 
@@ -74,5 +74,6 @@ Responsive design (mobile, tablette, desktop)
 Intégration API back-end pour afficher les œuvres depuis la base de données.
 
 Système de routing côté client (si React ou Angular est utilisé).
+
 
 
