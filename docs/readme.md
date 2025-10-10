@@ -53,7 +53,8 @@ Formulaire de contact interactif (nom, email, message)
 
 Liens réseaux sociaux et coordonnées.
 
-🧭 Navigation :
+
+<h3>🧭 Navigation</h3>
 
 Barre de navigation fixe en haut (responsive + effet hover sur les liens)
 
@@ -61,7 +62,8 @@ Menu burger pour mobile
 
 Scroll fluide entre les sections.
 
-💡 Fonctionnalités front-end prévues :
+
+<h3>💡 Fonctionnalités front-end prévues</h3>
 
 Carousel avec boutons précédent/suivant et effet crossfade
 
@@ -74,6 +76,7 @@ Responsive design (mobile, tablette, desktop)
 Intégration API back-end pour afficher les œuvres depuis la base de données.
 
 Système de routing côté client (si React ou Angular est utilisé).
+
 
 
 
