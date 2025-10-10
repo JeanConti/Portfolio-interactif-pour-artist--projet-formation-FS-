@@ -17,7 +17,7 @@ Back-End (API sécurisée et base de données pour la gestion des œuvres, utili
 
 Offrir une interface visuelle immersive et responsive qui met en valeur le travail des artistes, tout en permettant une navigation intuitive pour les visiteurs.
 
-<h4>🧰 Technologies utilisées</h4>
+<h3>🧰 Technologies utilisées</h3>
 
 HTML5 / CSS3 / SASS → pour la structure et le style personnalisé.
 
@@ -74,4 +74,5 @@ Responsive design (mobile, tablette, desktop)
 Intégration API back-end pour afficher les œuvres depuis la base de données.
 
 Système de routing côté client (si React ou Angular est utilisé).
+
 
